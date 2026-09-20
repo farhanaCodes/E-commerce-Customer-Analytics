@@ -14,7 +14,7 @@ E-commerce businesses generate large amounts of data from customer transactions,
 
 Analyzing this information directly from raw tables can be difficult. This project uses **Power BI** to organize the available data and present it through interactive visualizations and key performance indicators.
 
-### Dashboard allows users to:
+The dashboard allows users to:
 
 - Monitor important business KPIs
 - Analyze product category performance
@@ -24,6 +24,10 @@ Analyzing this information directly from raw tables can be difficult. This proje
 - Examine traffic sources and revenue
 - Review shipping costs and taxes
 - Filter the analysis by country, category, and date
+
+### Dashboard
+
+![Dashboard](images/dashboard.png)
 
 ---
 
@@ -46,11 +50,11 @@ The main objectives of this project are:
 
 | Tool / Technology | Purpose |
 |---|---|
-| Microsoft Power BI | Data analysis, modeling and visualization |
-| Power Query | Data preparation and transformation |
-| DAX | Measures and calculations |
-| Microsoft Word | Project documentation |
-| E-commerce Dataset | Source data for analysis |
+| **Microsoft Power BI** | Data analysis, modeling and visualization |
+| **Power Query** | Data preparation and transformation |
+| **DAX** | Measures and calculations |
+| **Microsoft Word** | Project documentation |
+| **E-commerce Dataset** | Source data for analysis |
 
 ---
 
@@ -139,6 +143,8 @@ Return analysis is included to understand return activity across:
 - Product categories
 - Years
 - Months
+
+The analysis can help identify categories or periods that may require further investigation.
 
 ### 6. Traffic Source Analysis
 
