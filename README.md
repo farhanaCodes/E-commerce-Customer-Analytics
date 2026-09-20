@@ -27,7 +27,7 @@ The dashboard allows users to:
 
 ### Dashboard
 
-![Dashboard](images/dashboard.png)
+(Dshboard/dashboard.png)
 
 ---
 
